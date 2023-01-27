@@ -1,0 +1,24 @@
+{
+  "name": "workshop13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Tushar Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cron-master": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.4",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.20",
+    "secret-key": "^1.5.1",
+    "shelljs": "^0.8.5"
+  }
+}
